@@ -1,0 +1,19 @@
+{
+  "name": "generatereadme",
+  "version": "1.0.0",
+  "description": "Command Line Readme Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scott7710/generateReadme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scott7710/generateReadme/issues"
+  },
+  "homepage": "https://github.com/Scott7710/generateReadme#readme"
+}
